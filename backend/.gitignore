@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+
+# System Files
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.csv
+
+# (Optional) Models - Usually ignored because they are huge, 
+# but if yours are small (<50MB) and you want to deploy to GitHub, you can leave them tracked.
+# models/*.pkl
